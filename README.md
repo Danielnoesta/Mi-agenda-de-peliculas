@@ -82,7 +82,7 @@ N2-AgendaPeliculas/
    cd N2-AgendaPeliculas
    ```
 
-2. Abre el proyecto en tu entorno de desarrollo preferido (como **Spyder**).
+2. Abre el proyecto en tu entorno de desarrollo preferido (como **VScode**).
 
 3. Ejecuta el archivo `consola_peliculas.py`.
 
